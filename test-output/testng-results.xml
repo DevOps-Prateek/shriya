@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2107" started-at="2020-03-15T04:52:09Z" finished-at="2020-03-15T04:52:11Z">
+  <suite name="Suite" duration-ms="1323" started-at="2020-03-15T15:10:13Z" finished-at="2020-03-15T15:10:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2107" started-at="2020-03-15T04:52:09Z" finished-at="2020-03-15T04:52:11Z">
+    <test name="Test" duration-ms="1323" started-at="2020-03-15T15:10:13Z" finished-at="2020-03-15T15:10:15Z">
       <class name="pom.testcase.Logintest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:pom.testcase.Logintest@394a2528]" name="setup" is-config="true" duration-ms="11644" started-at="2020-03-15T04:51:57Z" finished-at="2020-03-15T04:52:09Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:pom.testcase.Logintest@6b57696f]" name="setup" is-config="true" duration-ms="5802" started-at="2020-03-15T15:10:07Z" finished-at="2020-03-15T15:10:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Test01()[pri:0, instance:pom.testcase.Logintest@394a2528]" name="Test01" duration-ms="2020" started-at="2020-03-15T04:52:09Z" finished-at="2020-03-15T04:52:11Z">
+        <test-method status="PASS" signature="Test01()[pri:0, instance:pom.testcase.Logintest@6b57696f]" name="Test01" duration-ms="1273" started-at="2020-03-15T15:10:13Z" finished-at="2020-03-15T15:10:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test01 -->
-        <test-method status="PASS" signature="test02()[pri:0, instance:pom.testcase.Logintest@394a2528]" name="test02" duration-ms="28" started-at="2020-03-15T04:52:11Z" finished-at="2020-03-15T04:52:11Z">
+        <test-method status="PASS" signature="test02()[pri:0, instance:pom.testcase.Logintest@6b57696f]" name="test02" duration-ms="19" started-at="2020-03-15T15:10:15Z" finished-at="2020-03-15T15:10:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test02 -->
       </class> <!-- pom.testcase.Logintest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
